@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/threejs-react-deploy/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/threejs-react-deploy/static/js/main.7acde616.chunk.js",
+    "main.js.map": "/threejs-react-deploy/static/js/main.7acde616.chunk.js.map",
+    "runtime-main.js": "/threejs-react-deploy/static/js/runtime-main.29d46cb3.js",
+    "runtime-main.js.map": "/threejs-react-deploy/static/js/runtime-main.29d46cb3.js.map",
+    "static/js/2.dd8ed516.chunk.js": "/threejs-react-deploy/static/js/2.dd8ed516.chunk.js",
+    "static/js/2.dd8ed516.chunk.js.map": "/threejs-react-deploy/static/js/2.dd8ed516.chunk.js.map",
+    "static/js/3.617037c3.chunk.js": "/threejs-react-deploy/static/js/3.617037c3.chunk.js",
+    "static/js/3.617037c3.chunk.js.map": "/threejs-react-deploy/static/js/3.617037c3.chunk.js.map",
+    "static/js/4.a19a017a.chunk.js": "/threejs-react-deploy/static/js/4.a19a017a.chunk.js",
+    "static/js/4.a19a017a.chunk.js.map": "/threejs-react-deploy/static/js/4.a19a017a.chunk.js.map",
+    "index.html": "/threejs-react-deploy/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/threejs-react-deploy/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.dd8ed516.chunk.js.LICENSE.txt": "/threejs-react-deploy/static/js/2.dd8ed516.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29d46cb3.js",
+    "static/js/2.dd8ed516.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7acde616.chunk.js"
+  ]
+}
